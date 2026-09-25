@@ -87,7 +87,7 @@ https://github.com/owid/energy-data
 
 **Dashboard no Google Looker Studio:**
 
-> O link para o dashboard será disponibilizado aqui.
+[🔗 Acessar o Dashboard EcoEnergy Analytics](https://datastudio.google.com/reporting/c89a8fe1-a480-40c6-aaa5-7e2752791a76)
 
 ## Observação
 
